@@ -1,4 +1,4 @@
-# We Make Good Shit....
+# We Make Good Shit......
 
 Dogstudio is a multidisciplinary creative studio at the intersection of art, design and technology. This project is a digital playground where we explore the boundaries of immersive experiences through code.
 
@@ -30,5 +30,6 @@ We believe in the power of beauty and the elegance of code. Every line in `main.
 **Dogstudio**  
 *Chicago . Amsterdam . Namur . Paris*  
 [dogstudio.co](https://dogstudio.co/)
+
 
 
